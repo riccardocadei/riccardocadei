@@ -1,4 +1,4 @@
-### Hello World,
+### Hello World :earth_africa:,
 I am Riccardo :it:, a Master Student in Data Science at [EPFL](https://www.epfl.ch/education/master/programs/data-science/).
 
 Here you can find a collection of different problems, challenges and frameworks regarding:
@@ -6,7 +6,7 @@ Here you can find a collection of different problems, challenges and frameworks 
 - Statistics :bar_chart:,
 - Optimization :dart: 
 
-that I have solved and implemented during the last few years
+that I have solved and implemented during the last few years.
 
 Don't hesitate to contact me at `riccardo.cadei@epfl.ch` if you are interested in a specific project. 
 

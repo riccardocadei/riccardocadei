@@ -6,7 +6,7 @@ Here you can find a collection of different problems, challenges and frameworks 
 - Statistics :bar_chart:,
 - Optimization :dart: 
 
-that I have implemented during the last few years
+that I have solved and implemented during the last few years
 
 Don't hesitate to contact me at `riccardo.cadei@epfl.ch` if you are interested in a specific project. 
 

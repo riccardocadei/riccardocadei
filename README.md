@@ -1,5 +1,5 @@
-### Hello World,
-I am Riccardo :it:, a Master Student in Data Science at EPFL :ch:.
+#### Hello World,
+I am Riccardo :it:, a Master Student in Data Science at EPFL :ch: .
 
 Here you can find a collection of different problems, challenges and frameworks regarding Machine Learning :chart_with_upwards_trend:, Statistics :bar_chart: and Optimization :dart: that I have implemented during the last few years.
 Don't hesitate to contact me at `riccardo.cadei@epfl.ch` if you are interested in a specific project. 

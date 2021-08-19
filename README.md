@@ -1,5 +1,5 @@
 ### Hello World :earth_africa:,
-I am [Riccardo](https://www.riccardocadei.com/):it:, a Master Student in Data Science at [EPFL](https://www.epfl.ch/education/master/programs/data-science/).
+I am [Riccardo](https://www.riccardocadei.com/) :it:, a Master Student in Data Science at [EPFL](https://www.epfl.ch/education/master/programs/data-science/).
 
 Here you can find a collection of different problems, challenges and frameworks regarding:
 - Machine Learning :chart_with_upwards_trend:, 

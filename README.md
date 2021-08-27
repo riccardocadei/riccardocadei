@@ -8,9 +8,7 @@ Here you can find a collection of different problems, challenges and frameworks 
 
 that I have solved and implemented during the last few years :calendar: and I can share publicly :unlock:.
 
-For a better organinization of all the projects see:
-
-### [MY PORFOLIO](https://www.riccardocadei.com/projects/)
+For a better organization of all the projects see: ### [MY PORFOLIO](https://www.riccardocadei.com/projects/)
 
 Don't hesitate to contact me at `riccardo.cadei@epfl.ch` :mailbox: if you are interested in a specific project. 
 

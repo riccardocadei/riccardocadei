@@ -3,10 +3,14 @@ I am [Riccardo](https://www.riccardocadei.com/) :it:, a Master Student in Data S
 
 Here you can find a collection of different problems, challenges and frameworks regarding:
 - Machine Learning :chart_with_upwards_trend:, 
-- Statistics :bar_chart:,
-- Optimization :dart: 
+- Optimization :dart:,
+- Statistics :bar_chart:
 
 that I have solved and implemented during the last few years :calendar: and I can share publicly :unlock:.
+
+For a better organinization of all the projects see:
+
+### [MY PORFOLIO](https://www.riccardocadei.com/projects/)
 
 Don't hesitate to contact me at `riccardo.cadei@epfl.ch` :mailbox: if you are interested in a specific project. 
 

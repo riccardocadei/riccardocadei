@@ -11,7 +11,7 @@ that I have solved and implemented during the last few years :calendar: and I ca
 
 For a better organization of all the projects see: [MY PORTFOLIO](https://www.riccardocadei.com/projects/) :file_folder:
 
-Don't hesitate to contact me at `rcadei@hsph.harvard.edu` :mailbox: if you are interested in a specific project. 
+Don't hesitate to contact me at `riccardo.cadei@epfl.ch` :mailbox: if you are interested in a specific project. 
 
 
 Enjoy the reading! :book:

@@ -16,3 +16,13 @@ Don't hesitate to contact me at `riccardo.cadei@epfl.ch` :mailbox: if you are in
 
 
 Enjoy the reading! :book:
+
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riccardocadei&orgs=acme,evilcorp,fsociety)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccardocadei&count_private=true)
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=riccardocadei&show_icons=true&theme=gotham" alt="riccardocadei" />
+
+
+<img src="https://komarev.com/ghpvc/?username=riccardocadei&style=flat-square&color=blue" alt=""/> -->

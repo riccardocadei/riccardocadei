@@ -13,7 +13,7 @@ Here you can find a collection of different packages, challenges and problems re
 
 that I have solved and implemented during the last few years and I can share publicly 🔓.
 
-For a ordered archive of these projects see: [MY PORTFOLIO](https://www.riccardocadei.com/projects/) :file_folder: and don't hesitate to reach out at `riccardo.cadei@st.ac.at` :mailbox: for any constructive discussion.
+For a ordered archive of these projects see: [MY PORTFOLIO](https://www.riccardocadei.com/projects/) :file_folder: and don't hesitate to reach out at `riccardo.cadei@ist.ac.at` :mailbox: for any constructive discussion.
 
 Enjoy the reading! :book:
 
